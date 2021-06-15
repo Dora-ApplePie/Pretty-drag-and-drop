@@ -1,2 +1,2 @@
 # Pretty-drag-and-drop
-Drag-and-drop in JS
+JS Drag-and-Drop possibility
